@@ -19,7 +19,7 @@
 
 [Sharing is Caring Github](https://github.com/RajeevG96/Sharing-is-Caring)
 
-[Sharing is Caring Github Pages]([Sharing is Caring Github](http://rajeevg96.github.io/Sharing-is-Caring/)
+[Sharing is Caring Github Pages](http://rajeevg96.github.io/Sharing-is-Caring/)
 
 
 
